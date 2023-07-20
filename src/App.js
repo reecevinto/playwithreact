@@ -1,13 +1,13 @@
 import { imageUrl } from "./imageurl";
 import "./styles.css";
 const person = {
-  name: "Gregorio y. Zara",
+  name: "Collins K. Murgor",
   imageId: "7vQD0fP",
-  imageSize: "b",
+  imageSize: "",
   theme: {
     backgroundColor: "purple",
-    color: "white"
-  }
+    color: "white",
+  },
 };
 
 export default function TodoList() {
